@@ -1,0 +1,53 @@
+{
+  "editor.fontSize": 16,
+  "editor.tabSize": 18,
+  "editor.wordWrap": "off",
+  "terminal.integrated.fontSize": 16,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "workbench.colorCustomizations": {
+    "editor.background": "#0C0C0C",
+    "sideBar.background": "#000000",
+    "sideBar.border": "#FFFFFF",
+    "activityBar.background": "#000000",
+    "activityBar.border": "#FFFFFF"
+  },
+  "editor.minimap.enabled": true,
+  "prettier.jsxSingleQuote": false,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "off",
+    "editor.renderWhitespace": "none"
+  },
+  "files.autoSave": "onWindowChange",
+  "editor.cursorBlinking": "expand",
+  "editor.find.cursorMoveOnType": false,
+  "bracketPairColorizer.showBracketsInRuler": true,
+  "editor.suggest.localityBonus": true,
+  "editor.wordBasedSuggestions": true,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.definitionLinkOpensInPeek": true,
+  "tabnine.experimentalAutoImports": true,
+  "bracketPairColorizer.depreciation-notice": true,
+  "ponicode.token": "25035d52-1092-4125-a8b4-5c7d1dcb9c14",
+  "webview.experimental.useExternalEndpoint": true,
+  "ponicode.watchMode": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.bracketPairColorization.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "terminal.integrated.fontFamily": "monospace",
+  "html.format.wrapAttributes": "preserve",
+  "avdmanager.sdkPath": "c:\\Users\\Artash\\AppData\\Local\\Android\\Sdk",
+  "launch": {
+    "configurations": []
+  },
+  "git.enableSmartCommit": true,
+  "typescript.updateImportsOnFileMove.enabled": "never"
+}
